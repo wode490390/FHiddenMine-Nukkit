@@ -248,11 +248,11 @@ public class Main extends PluginBase implements Listener
 			for(int height : chunk.getHeightMapArray())
 			{
 				stream.putByte((byte)height);
-			}
+			}/*
 			for(int color : chunk.getBiomeColorArray())
 			{
 				stream.put(Binary.writeInt(color));
-			}
+			}*/
 			if(extraData!=null)
 			{
 				stream.put(extraData.getBuffer());
