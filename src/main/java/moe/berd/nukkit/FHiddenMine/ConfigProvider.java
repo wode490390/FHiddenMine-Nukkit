@@ -12,9 +12,13 @@ public class ConfigProvider
 	private static ConfigSection defaults=new ConfigSection()
 	{
 		{
-			set("FillMode",false);
+			set("FillMode",true);
 			set("ScanHeight",3);
-			set("ProtectWorlds",new ArrayList<String>());
+			set("ProtectWorlds",new ArrayList<String>(){
+				{
+					add("world");
+				}
+			});
 			set("Ores",new ArrayList<Integer>()
 			{
 				{
