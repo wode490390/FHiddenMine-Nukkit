@@ -7,7 +7,7 @@
     <name>FHiddenMine</name>
     <groupId>moe.berd.nukkit</groupId>
     <artifactId>FHiddenMine</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <encoding>UTF-8</encoding>
@@ -20,8 +20,8 @@
 
     <repositories>
         <repository>
-            <id>ZXDA</id>
-            <url>https://jenkins.zxda.net/plugin/repository/project/Nukkit/LastSuccessful/repository/</url>
+            <id>nukkitx-repo</id>
+            <url>>http://repo.nukkitx.com/main/</url>
         </repository>
     </repositories>
 
