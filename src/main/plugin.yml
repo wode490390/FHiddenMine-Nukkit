@@ -1,11 +1,10 @@
 name: FHiddenMine
 main: moe.berd.nukkit.FHiddenMine.Main
-version: 1.0.0
+version: 1.0.1
 load: POSTWORLD
-author: FENGberd
+author: "FENGberd & wode490390"
 
-api:
- - "1.0.0"
+api: ["1.0.0"]
 
 permissions:
  FHiddenMine.show:
