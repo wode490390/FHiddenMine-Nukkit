@@ -1,6 +1,6 @@
-name: FHiddenMine
+name: "FHiddenMine"
 main: moe.berd.nukkit.FHiddenMine.Main
-version: 1.0.1
+version: 1.0.2
 load: POSTWORLD
 author: "FENGberd & wode490390"
 
@@ -8,5 +8,5 @@ api: ["1.0.0"]
 
 permissions:
  FHiddenMine.show:
-  description: Don't hide mine for this player.
+  description: "Don't hide mine for this player."
   default: op
