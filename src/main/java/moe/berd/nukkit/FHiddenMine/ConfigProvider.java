@@ -168,38 +168,6 @@ public class ConfigProvider {
                     add(242);
                     add(244);
                     add(250);
-                    add(257);
-                    add(258);
-                    add(259);
-                    add(266);
-                    add(385);
-                    add(386);
-                    add(388);
-                    add(389);
-                    add(390);
-                    add(391);
-                    add(392);
-                    add(393);
-                    add(395);
-                    add(396);
-                    add(397);
-                    add(398);
-                    add(399);
-                    add(400);
-                    add(401);
-                    add(402);
-                    add(403);
-                    add(404);
-                    add(405);
-                    add(406);
-                    add(407);
-                    add(408);
-                    add(409);
-                    add(411);
-                    add(412);
-                    add(414);
-                    add(415);
-                    add(416);
                 }
             });
         }
