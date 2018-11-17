@@ -1,8 +1,8 @@
-name: "FHiddenMine"
+name: FHiddenMine
 main: moe.berd.nukkit.FHiddenMine.Main
-version: 1.0.2
+version: 1.0.3
 load: POSTWORLD
-author: "FENGberd & wode490390"
+author: FENGberd
 
 api: ["1.0.0"]
 
