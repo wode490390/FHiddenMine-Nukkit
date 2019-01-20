@@ -1,11 +1,11 @@
 package moe.berd.nukkit.FHiddenMine;
 
+import cn.nukkit.utils.Config;
+import cn.nukkit.utils.ConfigSection;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-import cn.nukkit.utils.Config;
-import cn.nukkit.utils.ConfigSection;
 
 public class ConfigProvider {
 
@@ -51,7 +51,6 @@ public class ConfigProvider {
                     add(32);
                     add(33);
                     add(34);
-                    add(36);
                     add(37);
                     add(38);
                     add(39);
@@ -83,10 +82,12 @@ public class ConfigProvider {
                     add(81);
                     add(83);
                     add(85);
+                    add(88);
                     add(90);
                     add(92);
                     add(93);
                     add(94);
+                    add(95);
                     add(96);
                     add(101);
                     add(102);
@@ -138,6 +139,7 @@ public class ConfigProvider {
                     add(164);
                     add(165);
                     add(166);
+                    add(167);
                     add(171);
                     add(175);
                     add(176);
@@ -150,24 +152,32 @@ public class ConfigProvider {
                     add(185);
                     add(186);
                     add(187);
+                    add(190);
+                    add(191);
                     add(193);
                     add(194);
                     add(195);
                     add(196);
                     add(197);
+                    add(198);
                     add(199);
                     add(200);
+                    add(202);
                     add(203);
+                    add(204);
+                    add(205);
                     add(207);
                     add(208);
-                    add(212);
                     add(218);
                     add(230);
+                    add(238);
+                    add(239);
                     add(240);
                     add(241);
-                    add(242);
                     add(244);
                     add(250);
+                    add(253);
+                    add(254);
                 }
             });
         }
