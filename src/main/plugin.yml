@@ -1,6 +1,6 @@
 name: FHiddenMine
 main: moe.berd.nukkit.FHiddenMine.Main
-version: 1.0.3
+version: 1.0.4
 load: POSTWORLD
 author: FENGberd
 
